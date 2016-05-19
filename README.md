@@ -1,3 +1,3 @@
 # clonetest
 add some new content
-append some new line
+after modified,the content is like this.
